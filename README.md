@@ -1,10 +1,11 @@
-# expected
+# prerequisites
+
 -- pytest, python 
 -- chrome webdriver
 -- linux env preferred 
 
 # aldo_sitetest execution steps
-# example:
+
 (base) ikram@ikram-xxxxx:~/qa_testing/xxxx$ pytest aldo_interview.py
 
 
